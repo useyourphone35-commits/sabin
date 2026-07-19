@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Sabin - Profile</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      margin: 0;
+      background: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background: #1e88e5;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    .container {
+      max-width: 900px;
+      margin: 30px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      border-left: 5px solid #1e88e5;
+      padding-left: 10px;
+      margin-top: 40px;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    .skills span {
+      display: inline-block;
+      background: #e3f2fd;
+      color: #1e88e5;
+      padding: 6px 12px;
+      margin: 5px;
+      border-radius: 5px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Sabin – Professional Profile</h1>
+  <p>Quality Management / Overseas Procurement / Logistics / Contract Management</p>
+</header>
+
+<div class="container">
+
+  <h2>About Me</h2>
+  <p>
+    現在はGOGでオンサイト品質管理を担当し、以前はASPARKで海外調達を経験。  
+    契約管理、サプライヤー交渉、物流調整、現場トラブル対応など、  
+    技術理解とコミュニケーションが求められる業務を幅広く担当してきました。
+  </p>
+
+  <h2>Work Experience</h2>
+  <ul>
+    <li><strong>GOG – Onsite Quality Management</strong><br>
+      ・現場品質管理、トラブル対応、顧客折衝、改善提案</li>
+    <li><strong>ASPARK – Overseas Procurement</strong><br>
+      ・契約管理、サプライヤー交渉、納期調整、物流管理</li>
+  </ul>
+
+  <h2>Skills</h2>
+  <div class="skills">
+    <span>Excel（VLOOKUP / INDEX MATCH / マクロ）</span>
+    <span>契約管理</span>
+    <span>品質管理</span>
+    <span>物流調整</span>
+    <span>サプライヤー交渉</span>
+    <span>トラブルシューティング</span>
+    <span>日本語（JLPT N2）</span>
+    <span>英語ビジネスメール</span>
+  </div>
+
+  <h2>Career Goals</h2>
+  <p>
+    ロジスティクスまたは契約管理の専門職としてキャリアを確立し、  
+    将来的にはオペレーション改善やプロセス最適化に貢献できる人材を目指しています。
+  </p>
+
+  <h2>Contact</h2>
+  <p>Email: your-email@example.com</p>
+
+</div>
+
+</body>
+</html>
